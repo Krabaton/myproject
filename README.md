@@ -1,5 +1,5 @@
 # Test project
 
-Yurii Kuchma
+Yurii Kuchma & Vasya Pupkin
 
 Hello world - app
